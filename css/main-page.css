@@ -1,0 +1,12 @@
+#content{
+    display: flex;
+    flex-direction: row;
+}
+
+.menu-bar{
+    width: 30%;
+    margin: 100px 0 10px 0;
+}
+
+
+
